@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nkishore23.github.io/stock-tools/sitemap.xml
+Host: https://nkishore23.github.io/stock-tools
